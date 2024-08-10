@@ -48,14 +48,14 @@
             <mxPoint x="510" y="590" as="sourcePoint" />
             <mxPoint x="530.4799999999999" y="484.24" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="590" />
-              <mxPoint x="550" y="482" />
+              <mxPoint x="560" y="590" />
+              <mxPoint x="560" y="482" />
               <mxPoint x="531" y="482" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Da4GSm3LaLyzCXT_-sjg-52" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="570" width="40" height="30" as="geometry" />
+          <mxGeometry x="520" y="560" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Da4GSm3LaLyzCXT_-sjg-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
